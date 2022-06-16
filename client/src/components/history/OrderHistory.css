@@ -1,0 +1,21 @@
+.history{
+    display: block;
+    padding: 1rem 0;
+}
+.history__heading{
+    text-align: center;
+}
+.history__count{
+    text-align: center;
+    color: var(--gray);
+}
+.history__text--detail{
+    color: var(--white);
+    background-color: var(--red);;
+    padding: 0.4rem;
+    border-radius: 0.4rem;
+}
+.history__column ion-icon{
+    color: white;
+    
+}
